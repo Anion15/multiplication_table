@@ -32,3 +32,5 @@ while 몇개 > h:
     print(my_list[g])
     g = g + 1
   h = h + 1
+while True:
+   pass
